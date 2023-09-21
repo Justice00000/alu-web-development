@@ -1,2 +1,2 @@
 ![Implementing from scratch a webpage from a designer file.
-For this first project, you will focus on the HTML structure only - no CSS, no style - just pure HTML]([Imgur](https://imgur.com/cRsYQm8)
+For this first project, you will focus on the HTML structure only - no CSS, no style - just pure HTML](https://imgur.com/cRsYQm8)
