@@ -1,1 +1,1 @@
-[Styling my Web Page]((https://imgur.com/cRsYQm8)
+[Styling my Web Page](https://imgur.com/cRsYQm8)
