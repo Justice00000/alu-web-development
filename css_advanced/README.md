@@ -9,4 +9,4 @@ Gettiing deep into CSS
 1. Your code should be W3C compliant and validate with W3C-Validator
 
 
-![README file](https:https://github.com/Justice00000/alu-web-development/blob/701f9add86081a0c422900f0cafa205c59342ab1/css_advanced/Get%20Schooled.jpg)
+![README file](https://github.com/Justice00000/alu-web-development/blob/701f9add86081a0c422900f0cafa205c59342ab1/css_advanced/Get%20Schooled.jpg)
