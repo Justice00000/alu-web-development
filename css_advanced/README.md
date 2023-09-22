@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 ### CSS, advanced
-Gettimg deep into CSS
+Gettiing deep into CSS
 
 #### General requirements for this project
 1. All your files should end with a new line
@@ -8,4 +9,4 @@ Gettimg deep into CSS
 1. Your code should be W3C compliant and validate with W3C-Validator
 
 
-![README file](https://github.com/GChukwudi/alu-web-development/assets/127259967/212aff03-08c0-425f-85d6-d1ffb183f57f)
+![README file](https://github.com/Justice00000/alu-web-development/assets/127259967/212aff03-08c0-425f-85d6-d1ffb183f57f)
