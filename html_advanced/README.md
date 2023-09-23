@@ -8,4 +8,4 @@ The focus was on the structure only - no CSS, no style - just pure HTML semantic
 - You are not allowed to install, import or use external libraries. This website must be built with only HTML/CSS/JavaScript.No NodeJS, React, VueJS, Bootstrap, etc.
 - Your code should be W3C compliant and validate with W3C-Validator
 
-![Preview](https://github.com/GChukwudi/alu-web-development/assets/127259967/316f5872-e3ef-4b60-9f36-3888a44c88f2)
+![Preview](https://github.com/Justice00000/alu-web-development/blob/main/css_advanced/Get%20Schooled.jpg)
